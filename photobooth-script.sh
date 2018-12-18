@@ -1,5 +1,5 @@
 #!/bin/sh
 
 cd /
-cd home/pi/Partage/Photobooth/
-sudo python camera.py
+cd home/pi/selfiebox/
+sudo python selfiebox.py
