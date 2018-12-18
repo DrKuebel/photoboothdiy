@@ -1,4 +1,4 @@
-# Photobooth DIY
+# Selfiebox DIY
 
 Here you will find code for my wedding photobooth made with a Raspberry pi under Raspbian.
 It can be optimised but I didn't have time to do.
