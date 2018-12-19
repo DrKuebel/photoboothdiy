@@ -11,6 +11,7 @@ Requires for the code works:
 To enable the camera module there is a little configuration to do: https://www.raspberrypi.org/documentation/usage/camera/
 
 2. Prepare Raspbian with all librairies you need
+(most of them are already installed with the raspbian image.)
 
 * Install Python (because program is made with Python), you will find how to do here: https://www.raspberrypi.org/documentation/linux/software/python.md
 
@@ -22,7 +23,9 @@ To enable the camera module there is a little configuration to do: https://www.r
 
 * Install CUPS to add a printer on Raspbian, you will find how to do here: https://www.howtogeek.com/169679/how-to-add-a-printer-to-your-raspberry-pi-or-other-linux-computer/
 
-* Update Gutenprint to Version 5.2.14 details here: https://sourceforge.net/projects/gimp-print/files/gutenprint-5.2/5.2.14/
+* Update Gutenprint to Version 5.3.1 to add some more printers.
+But this is still a bit tricky..
+Details here: https://sourceforge.net/projects/gimp-print/files/gutenprint-5.2/5.2.14/
 https://www.raspberrypi.org/forums/viewtopic.php?t=219763
 
 * Install PIL (library for images on Python): https://www.pkimber.net/howto/python/modules/pillow.html
